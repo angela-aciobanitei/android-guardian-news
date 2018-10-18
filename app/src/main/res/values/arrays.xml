@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Array Strings For Navigation Drawer List [CHAR LIMIT=30] -->
+    <string-array name="navigation_drawer_list">
+        <item>Latest news</item>
+        <item>World</item>
+        <item>Business</item>
+        <item>Sport</item>
+        <item>Football</item>
+        <item>Politics</item>
+        <item>Environment</item>
+        <item>Education</item>
+        <item>Science</item>
+        <item>Tech</item>
+        <item>Culture</item>
+        <item>Film</item>
+        <item>Music</item>
+        <item>Books</item>
+        <item>Travel</item>
+    </string-array>
+
+    <!-- Array Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+
+    <!-- Array Strings For Order-Date Preference [CHAR LIMIT=30] -->
+    <string-array name="settings_order_date_labels">
+        <item>@string/settings_order_date_published_label</item>
+        <item>@string/settings_order_date_newspaper_edition_label</item>
+        <item>@string/settings_order_date_last_modified_label</item>
+    </string-array>
+
+    <string-array name="settings_order_date_values">
+        <item>@string/settings_order_date_published_value</item>
+        <item>@string/settings_order_date_newspaper_edition_value</item>
+        <item>@string/settings_order_date_last_modified_value</item>
+    </string-array>
+
+    <!-- Array Strings For Edition Preference [CHAR LIMIT=30] -->
+    <string-array name="settings_edition_labels">
+        <item>@string/settings_edition_uk_label</item>
+        <item>@string/settings_edition_us_label</item>
+        <item>@string/settings_edition_au_label</item>
+        <item>@string/settings_edition_international_label</item>
+    </string-array>
+
+    <string-array name="settings_edition_values">
+        <item>@string/settings_edition_uk_value</item>
+        <item>@string/settings_edition_us_value</item>
+        <item>@string/settings_edition_au_value</item>
+        <item>@string/settings_edition_international_value</item>
+    </string-array>
+
+
+
+</resources>

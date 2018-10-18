@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Guardian</string>
+    <!-- Error text message to display when there is no internet access [CHAR LIMIT=NONE]-->
+    <string name="no_internet_connection">Please connect to the internet for more results. </string>
+    <string name="no_news_message">No news to display. Please insert another search keyword for more results.</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="latest_news">Latest news</string>
+    <string name="news">News</string>
+
+    <string name="key_search_section">search section</string>
+    <string name="key_search_string">search string</string>
+
+    <string name="section_world">world</string>
+    <string name="section_business">business</string>
+    <string name="section_sport">sport</string>
+    <string name="section_football">football</string>
+    <string name="section_politics">politics</string>
+    <string name="section_environment">environment</string>
+    <string name="section_education">education</string>
+    <string name="section_science">science</string>
+    <string name="section_tech">technology</string>
+    <string name="section_culture">culture</string>
+    <string name="section_film">film</string>
+    <string name="section_music">music</string>
+    <string name="section_books">books</string>
+    <string name="section_travel">travel</string>
+
+    <string name="search_menu_item">search</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">The Guardian Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">
+        @string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by newest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by oldest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+
+    <!-- Strings For Order-Date Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_date_label">Order Date</string>
+    <string name="settings_order_date_key" translatable="false">order_date</string>
+    <string name="settings_order_date_default" translatable="false">
+        @string/settings_order_date_published_value</string>
+
+    <!-- Label for Order-Date Published option [CHAR LIMIT=20] -->
+    <string name="settings_order_date_published_label">Published</string>
+    <string name="settings_order_date_published_value" translatable="false">published</string>
+
+    <!-- Label for Order-Date Newspaper Edition option [CHAR LIMIT=20] -->
+    <string name="settings_order_date_newspaper_edition_label">Newspaper Edition</string>
+    <string name="settings_order_date_newspaper_edition_value" translatable="false">newspaper-edition</string>
+
+    <!-- Label for Order-Date Last Modified option [CHAR LIMIT=20] -->
+    <string name="settings_order_date_last_modified_label">Last Modified</string>
+    <string name="settings_order_date_last_modified_value" translatable="false">last-modified</string>
+
+
+
+    <!-- Strings For Edition Preference [CHAR LIMIT=30] -->
+    <string name="settings_edition_label">Edition</string>
+    <string name="settings_edition_key" translatable="false">edition</string>
+    <string name="settings_edition_default" translatable="false">
+        @string/settings_edition_uk_value</string>
+
+    <!-- Label for Edition UK option [CHAR LIMIT=20] -->
+    <string name="settings_edition_uk_label">UK Edition</string>
+    <string name="settings_edition_uk_value" translatable="false">uk</string>
+
+    <!-- Label for Edition US option [CHAR LIMIT=20] -->
+    <string name="settings_edition_us_label">US Edition</string>
+    <string name="settings_edition_us_value" translatable="false">us</string>
+
+    <!-- Label for Edition AU option [CHAR LIMIT=20] -->
+    <string name="settings_edition_au_label">Australian Edition</string>
+    <string name="settings_edition_au_value" translatable="false">au</string>
+
+    <!-- Label for Edition International option [CHAR LIMIT=20] -->
+    <string name="settings_edition_international_label">International Edition</string>
+    <string name="settings_edition_international_value" translatable="false">international</string>
+
+
+</resources>
