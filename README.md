@@ -6,6 +6,7 @@ A news feed app that uses the Guardian API to retrieve the latest news.
 
 
 # News sections
+
 The news are organized into various sections via a Navigation Drawer.
 
 <img src="screenshot-guardian2.png" width="250"/> <img src="screenshot-guardian3.png" width="250"/>
